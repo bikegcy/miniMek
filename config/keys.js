@@ -1,4 +1,4 @@
 module.exports = {
   //mongoURI: 'mongodb://localhost:27017'
-  mongoURI: 'mongodb://<yourusername>:<password>@ds159651.mlab.com:59651/minimech'
+  mongoURI: 'mongodb://chaoyu:chaoyu123@ds249299.mlab.com:49299/minimek-backup'
 }
