@@ -1,0 +1,36 @@
+@import '~antd/dist/antd.css';
+
+.hero-table {
+    min-height: 640px;
+    border: solid 1px darkgray;
+    background-image: url("https://vignette.wikia.nocookie.net/overwatch/images/5/5a/Genji_dance.gif/revision/latest?cb=20170525224858");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.hero {
+    background: rgba(253, 253, 253, 0.80);
+    font-weight: bold;
+}
+
+.back {
+    min-height: 640px;
+    background-image: url("https://vignette.wikia.nocookie.net/overwatch/images/9/9d/Mei_frosty.gif/revision/latest?cb=20161117203052");
+    background-image: url("http://www.kinyu-z.net/data/wallpapers/40/840185.jpg");
+    background-image: url("https://media.giphy.com/media/sbcmxR3chW048/giphy.gif");
+}
+la
+.table-type {
+    opacity: 1;
+}
+
+
+.hero-detail {
+    min-height: 640px;
+    border: solid 1px lightgrey;
+}
+
+.center-hero-detail {
+    margin-top: 16px;
+}

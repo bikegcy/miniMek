@@ -1,0 +1,36 @@
+@import '~antd/dist/antd.css';
+
+.mech-table {
+    min-height: 640px;
+    border: solid 1px darkgray;
+    background-image: url("https://i.ytimg.com/vi/V4coxpz_zII/maxresdefault.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.mech {
+    background: rgba(253, 253, 253, 0.80);
+    font-weight: bold;
+}
+
+.back {
+    min-height: 640px;
+    background-image: url("https://media.giphy.com/media/sbcmxR3chW048/giphy.gif");
+}
+la
+.table-type {
+    opacity: 1;
+}
+
+
+.mech-detail {
+    border: solid 1px lightgrey;
+}
+
+.center-mech-detail {
+    margin-top: 16px;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+}
